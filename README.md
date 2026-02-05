@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+yo
+
+casually learning to code for 15+ years now. Went to UC Santa Cruz for Electrical Engineering. 
+know intermediate levels of c++ and arduino coding, or at least once did
+want to make a video game sometime
+used to produce music
+i stream on twitch: twitch.tv/sircrumpler
